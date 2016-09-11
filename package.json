@@ -1,0 +1,29 @@
+{
+  "name": "WorkBook3",
+  "private": true,
+  "version": "0.0.0",
+  "description": "a Sails application",
+  "keywords": [],
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "include-all": "~0.1.6",
+    "jade": "^1.11.0",
+    "rc": "1.0.1",
+    "sails": "~0.12.4",
+    "sails-disk": "~0.10.9"
+  },
+  "scripts": {
+    "debug": "node debug app.js",
+    "start": "node app.js"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fRoz3N/WorkBook3.git"
+  },
+  "author": "fRoz3N",
+  "license": "",
+  "devDependencies": {
+    "gulp-stylus": "^2.5.0"
+  }
+}
